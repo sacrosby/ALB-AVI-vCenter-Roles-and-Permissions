@@ -1,0 +1,10 @@
+ContentLibrary.UpdateSession
+ContentLibrary.UpdateLibraryItem
+ContentLibrary.DeleteLibraryItem
+ContentLibrary.AddLibraryItem
+Datastore.DeleteFile
+Datastore.AllocateSpace
+Network.Delete
+Network.Assign
+VirtualMachine.Config.AddNewDisk
+VApp.Import
