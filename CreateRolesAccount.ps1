@@ -1,9 +1,11 @@
 # =========================================================================================================
 # Automated vSphere preconfiguration for NSX ALB/Avi Load Balancer installation. 
-# This simplifies the vCenter instructions provided here: https://avinetworks.com/docs/22.1/roles-and-permissions-for-vcenter-nsx-t-users/#vCenter
+# This simplifies the vCenter instructions provided here: 
+# https://avinetworks.com/docs/22.1/roles-and-permissions-for-vcenter-nsx-t-users/#vCenter
 # Created by Seth Crosby 
 # =========================================================================================================
-# Prior to running this script, please create the local vCenter service account ($vcUser) under vSphere.local--This script does not create the account because of limitations of PowerCLI. 
+# Prior to running this script, please create the local vCenter service account ($vcUser) 
+# under vSphere.local--This script does not create the account because of limitations of PowerCLI. 
 # =========================================================================================================
 
 
